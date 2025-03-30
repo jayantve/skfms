@@ -6,7 +6,7 @@ const CPFeature = () => {
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <div className="text-center mb-20">
-                        <h1 className="sm:text-7xl text-5xl font-medium text-center title-font text-gray-900 mb-4">Car Care Services</h1>
+                        <h1 className="sm:text-7xl text-5xl font-medium text-center title-font text-gray-900 mb-4">CarPenting Services</h1>
 
                     </div>
                     <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
