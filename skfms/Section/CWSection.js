@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CCSection = () => {
+const CWSection = () => {
     return (
         <div>
             <section className="text-gray-600 body-font">
@@ -69,4 +69,4 @@ const CCSection = () => {
     )
 }
 
-export default CCSection
+export default CWSection

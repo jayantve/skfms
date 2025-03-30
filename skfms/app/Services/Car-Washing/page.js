@@ -1,10 +1,12 @@
-import CCSection from '@/Component/CCSection'
+import CWFeature from '@/Feature/CWFeature'
+import CWSection from '@/Section/CWSection'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <CCSection/>
+      <CWSection/>
+      <CWFeature/>
     </div>
   )
 }

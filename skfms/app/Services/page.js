@@ -1,6 +1,6 @@
-import CCFeature from '@/Component/CCFeature';
-import ElecFeature from '@/Component/ElecFeature';
-import HKFeature from '@/Component/HKFeature';
+import CCFeature from '@/Feature/CWFeature';
+import ElecFeature from '@/Feature/ElecFeature';
+import HKFeature from '@/Feature/HKFeature';
 import React from 'react'
 
 const page = () => {

@@ -1,5 +1,5 @@
-import ElecFeature from '@/Component/ElecFeature'
-import ElecSection from '@/Component/ElectSection'
+import ElecFeature from '@/Feature/ElecFeature'
+import ElecSection from '@/Section/ElectSection'
 import React from 'react'
 
 const page = () => {
