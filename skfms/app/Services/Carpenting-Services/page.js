@@ -1,6 +1,6 @@
 import React from 'react'
-import CPSection from '@/Component/CPSection'
-import CPFeature from '@/Component/CPFeature'
+import CPSection from '@/Section/CPSection'
+import CPFeature from '@/Feature/CPFeature'
 
 const page = () => {
   return (

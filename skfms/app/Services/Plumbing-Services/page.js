@@ -1,6 +1,6 @@
 import React from 'react'
-import PLSection from '@/Component/PLSection'
-import PLFeature from '@/Component/PLFeature'
+import PLSection from '@/Section/PLSection'
+import PLFeature from '@/Feature/PLFeature'
 
 const page = () => {
   return (

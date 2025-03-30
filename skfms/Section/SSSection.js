@@ -1,6 +1,6 @@
 import React from 'react'
 
-const PLSection = () => {
+const SSSection = () => {
     return (
         <div>
             <section className="text-gray-600 body-font">
@@ -69,4 +69,4 @@ const PLSection = () => {
     )
 }
 
-export default PLSection
+export default SSSection

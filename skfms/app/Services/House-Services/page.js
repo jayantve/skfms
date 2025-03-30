@@ -1,5 +1,5 @@
 import React from 'react'
-import HKSection from '@/Component/HKSection'
+import HKSection from '@/Section/HKSection'
 import HKFeature from '@/Feature/HKFeature'
 
 const page = () => {

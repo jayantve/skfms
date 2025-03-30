@@ -1,5 +1,5 @@
 import React from 'react'
-import SSSection from '@/Component/SSSection'
+import SSSection from '@/Section/SSSection'
 import SSFeature from '@/Feature/SSFeature'
 
 
