@@ -6,8 +6,8 @@ import SSFeature from '@/Feature/SSFeature'
 const page = () => {
   return (
     <div>
-      <SSSection/>
       <SSFeature/>
+      <SSSection/>
     </div>
   )
 }

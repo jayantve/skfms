@@ -5,8 +5,8 @@ import HKFeature from '@/Feature/HKFeature'
 const page = () => {
   return (
     <div>
-      <HKSection/>
       <HKFeature/>
+      <HKSection/>
     </div>
   )
 }

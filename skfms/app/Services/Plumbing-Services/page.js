@@ -5,8 +5,8 @@ import PLFeature from '@/Feature/PLFeature'
 const page = () => {
   return (
     <div>
-      <PLSection/>
       <PLFeature/>
+      <PLSection/>
     </div>
   )
 }
