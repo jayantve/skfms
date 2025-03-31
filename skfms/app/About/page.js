@@ -1,8 +1,10 @@
+import ASection from "@/Component/ASection";
+import React from "react";
 
 
 const page = () => {
   return (
-    <h1>about</h1>
+    <ASection/>
   )
 }
 

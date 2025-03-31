@@ -1,14 +1,10 @@
-import CCFeature from '@/Feature/CWFeature';
-import ElecFeature from '@/Feature/ElecFeature';
-import HKFeature from '@/Feature/HKFeature';
+import AllServices from '@/Component/AllServices';
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <HKFeature/>
-      <ElecFeature/>
-      <CCFeature/>
+      <AllServices/>
     </div>
   )
 }

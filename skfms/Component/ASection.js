@@ -1,4 +1,6 @@
 import React from 'react'
+import Image from 'next/image'
+import image1 from './ASecImg.jpg'
 
 const ASection = () => {
     return (
@@ -26,7 +28,7 @@ const ASection = () => {
                     </div>
                 </div>
                 <div className="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
-                    <img className="object-cover object-center w-full h-full" src="https://dummyimage.com/600x300" alt="stats"/>
+                    <Image height={600} width={600} className="object-cover object-center w-full h-full" src={image1} alt="stats"/>
                 </div>
             </div>
         </section>
