@@ -6,7 +6,7 @@ const SSFeature = () => {
             <section className="text-gray-600 body-font">
                 <div className="container px-5 py-24 mx-auto">
                     <div className="text-center mb-20">
-                        <h1 className="sm:text-7xl text-5xl font-medium text-center title-font text-gray-900 mb-4">Car Care Services</h1>
+                        <h1 className="sm:text-7xl text-5xl font-medium text-center title-font text-gray-900 mb-4">Security Services</h1>
 
                     </div>
                     <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
@@ -16,7 +16,7 @@ const SSFeature = () => {
                                     <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
                                     <path d="M22 4L12 14.01l-3-3"></path>
                                 </svg>
-                                <span className="title-font font-medium"> Tyre Pressure Checkup </span>
+                                <span className="title-font font-medium"> Access Control </span>
                             </div>
                         </div>
                         <div className="p-2 sm:w-1/2 w-full">
@@ -25,7 +25,7 @@ const SSFeature = () => {
                                     <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
                                     <path d="M22 4L12 14.01l-3-3"></path>
                                 </svg>
-                                <span className="title-font font-medium">Oil Checkup</span>
+                                <span className="title-font font-medium"> Patrolling </span>
                             </div>
                         </div>
                         <div className="p-2 sm:w-1/2 w-full">
@@ -34,7 +34,7 @@ const SSFeature = () => {
                                     <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
                                     <path d="M22 4L12 14.01l-3-3"></path>
                                 </svg>
-                                <span className="title-font font-medium">General Checkup</span>
+                                <span className="title-font font-medium"> Deterrence </span>
                             </div>
                         </div>
                         <div className="p-2 sm:w-1/2 w-full">

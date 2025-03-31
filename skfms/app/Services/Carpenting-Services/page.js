@@ -5,8 +5,8 @@ import CPFeature from '@/Feature/CPFeature'
 const page = () => {
   return (
     <div>
-      <CPSection/>
       <CPFeature/>
+      <CPSection/>
     </div>
   )
 }
