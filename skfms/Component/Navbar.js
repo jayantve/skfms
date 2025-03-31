@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import profilepic from './logo.jpg'
+import profilepic from '@/Image/logo.jpg'
 
 const Navbar = () => {
   return (
