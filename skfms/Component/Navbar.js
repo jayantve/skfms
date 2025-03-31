@@ -15,7 +15,7 @@ const Navbar = () => {
           </nav>
           <a className="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
             <Image src={profilepic} height={100} width={100} alt='logo' />
-            <span className="ml-3 text-xl">Shree Krishna FM Services</span>
+            <span className="ml-3 text-xl">SKFMS</span>
           </a>
         </div>
       </header>

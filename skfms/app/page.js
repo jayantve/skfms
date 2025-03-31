@@ -1,6 +1,5 @@
 import AllServices from "@/Component/AllServices";
 import ASection from "@/Component/ASection";
-import Image from "next/image";
 
 export default function Home() {
   return (
