@@ -1,11 +1,11 @@
 import React from 'react'
 import Image from 'next/image'
-import image6 from '@/Image/CurtainCleaning.jpg'
-import image5 from '@/Image/SofaCleaning.jpg'
-import image4 from '@/Image/CarpetCleaning.jpg'
-import image3 from '@/Image/WindowCleaning.jpg'
-import image2 from '@/Image/DeepCleaning.jpg'
-import image1 from '@/Image/ASecImg.jpg'
+import image6 from '@/Image/HK6.jpg'
+import image5 from '@/Image/HK5.jpg'
+import image4 from '@/Image/HK4.jpg'
+import image3 from '@/Image/HK3.jpg'
+import image2 from '@/Image/HK2.jpg'
+import image1 from '@/Image/HK1.jpg'
 
 const HKSection = () => {
     return (

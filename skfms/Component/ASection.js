@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import image1 from '@/Image/ASecImg.jpg'
+import image1 from '@/Image/HK1.jpg'
 
 const ASection = () => {
     return (
